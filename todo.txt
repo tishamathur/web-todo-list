@@ -1,0 +1,6 @@
+Prepare for Python Developer Interviews
+Practice Data Structures using Python
+Implement REST API Basics in Python
+Learn SQLite Integration with Python
+Build a Python Backend Mini Project
+Review Python Debugging Techniques
